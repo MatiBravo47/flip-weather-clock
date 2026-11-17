@@ -47,12 +47,12 @@ const styles = StyleSheet.create({
   container: {
     flexDirection: "row",
     alignItems: "center",
-    gap: 9,
+    gap: 14,
   },
 
   icon: {
     color: "#FFFFFF",
-    fontSize: 30,
+    fontSize: 42,
   },
 
   info: {
@@ -61,14 +61,14 @@ const styles = StyleSheet.create({
 
   temperature: {
     color: "#FFFFFF",
-    fontSize: 25,
+    fontSize: 34,
     fontWeight: "400",
     fontVariant: ["tabular-nums"],
   },
 
   description: {
-    color: "#888888",
-    fontSize: 10,
-    marginTop: 2,
+    color: "#AAAAAA",
+    fontSize: 13,
+    marginTop: 3,
   },
 });

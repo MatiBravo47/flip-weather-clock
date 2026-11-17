@@ -132,8 +132,8 @@ const styles = StyleSheet.create({
 
   weatherPosition: {
     position: "absolute",
-    top: 20,
-    left: 24,
+    top: 35,
+    left: 45,
     zIndex: 10,
   },
 
